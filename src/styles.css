@@ -1,0 +1,39 @@
+.App {
+  font-family: sans-serif;
+  text-align: left;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.Completed {
+  text-decoration: line-through;
+}
+
+.SelectedDate {
+  background: rgb(241, 241, 154);
+}
+
+.DateHasTask {
+  background: aliceblue;
+}
+
+.Dashboard {
+  display: flex;
+}
+
+.ShoppingSection {
+  background-color: lightpink;
+  padding: 0 10px;
+}
+
+.GoalSection {
+  background-color: lightblue;
+  padding: 0 10px;
+}
+
+body {
+  font-family: monospace;
+}
